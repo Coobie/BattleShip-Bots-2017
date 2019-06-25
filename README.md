@@ -1,4 +1,4 @@
-C++ (C) My Solution to battleship bots
+# C++ (C) My Solution to battleship bots
 
 Extra documentation on strategy and functions is provided in documentation.pdf
 
