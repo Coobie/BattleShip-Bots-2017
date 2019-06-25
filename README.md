@@ -4,4 +4,6 @@ Extra documentation on strategy and functions is provided in documentation.pdf
 
 Testing server is provided
 
+UFCF93-30-1 (COMPUTER AND NETWORK SYSTEMS - CANS)
+
 Copyright Coobie and UWE 2017
